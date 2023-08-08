@@ -1,6 +1,6 @@
 {
   "entry": "src/index.js",
-  "publicPath": "/greedy-snake/dist/",
+  "publicPath": "",
   "env": {
     "development": {
       "extraBabelPlugins": [
